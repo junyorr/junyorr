@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas | 20 anos<br>🚀 Apaixonado por tecnologia, back-end e resolução de problemas.<br>🔹 Proativo, organizado e sempre buscando aprender mais.<br>📍 Sorocaba – SP | 📧 junyoramaral22@gmail.com</p>
+<p align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas | 20 anos<br>🚀 Apaixonado por tecnologia,front -end e back-end e resolução de problemas.<br>🔹 Proativo, organizado e sempre buscando aprender mais.<br>📍 Sorocaba – SP | 📧 junyoramaral22@gmail.com</p>
 
 ###
 
